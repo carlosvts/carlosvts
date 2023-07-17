@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A 16y student from Brazil </h3>
+<h3 align="center">A brazilian 16y technology enjoyer</h3>
+
+<p align="left"> <a href="https://twitter.com/dev_carlosvts" target="blank"><img src="https://img.shields.io/twitter/follow/dev_carlosvts?logo=twitter&style=for-the-badge" alt="dev_carlosvts" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Qt, Django, HTML, CSS, MySQL, SQLite, MongoDB**
 
