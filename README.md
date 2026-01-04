@@ -12,12 +12,23 @@
   <li>Build more <b>CLI tools</b> and system-oriented projects</li>
   <li>Improve problem-solving through <b>competitive programming</b></li>
 </ul>
+<h3 align="left">Education & Coursework:</h3>
+
+<ul>
+  <li>
+    <b>CS50x – Introduction to Computer Science (Harvard)</b> <br/>
+    Focus on C, memory, algorithms, data structures and problem solving.
+  </li>
+</ul>
+
+--- 
 
 <p align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=carlosvts&show_icons=true&theme=transparent&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=carlosvts&layout=compact&theme=transparent&hide_border=true" height="160"/>
 </p>
 
+---
 
 <h3 align="left">Competitive Programming:</h3>
 <p align="left">
