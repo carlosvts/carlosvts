@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Learning how to build simple, efficient and low-level software.</h3>
 
-- 🌱 I’m currently learning **C++, Low-Level**
+- 🌱 I’m currently learning **C++**
 - 📫 How to reach me **carlosvtsdev@gmail.com**
 
 <h3 align="left">Goals:</h3>
