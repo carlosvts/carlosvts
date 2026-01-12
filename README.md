@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Learning how to build simple, efficient and low-level software.</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C/C++**
 - 📫 How to reach me **carlosvtsdev@gmail.com**
 
 <h3 align="left">Goals:</h3>
 
 <ul>
-  <li>Deepen knowledge in <b>C++</b> and low-level systems programming</li>
+  <li>Deepen knowledge in <b>C/C++</b> and low-level systems programming</li>
   <li>Study <b>operating systems</b>, memory management and networking</li>
   <li>Build more <b>CLI tools</b> and system-oriented projects</li>
   <li>Improve problem-solving through <b>competitive programming</b></li>
