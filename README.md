@@ -25,7 +25,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=carlosvts&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=carlosvts&layout=compact&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=carlosvts&layout=compact&theme=transparent&hide_border=true&exclude_repo=carlosvts.github.io" height="160" />
+
+
 </p>
 
 ---
