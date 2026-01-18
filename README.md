@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=carlosvts&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvts&layout=compact&hide_border=true&exclude_repo=carlosvts.github.io&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvts&layout=compact&hide_border=true&theme=transparent&exclude_repo=carlosvts.github.io&cache_seconds=1800"/>
 
 </p>
 
