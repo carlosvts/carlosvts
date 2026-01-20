@@ -9,7 +9,7 @@
 
 - 🌱 Currently focused on <b>C/C++</b>, low-level systems programming and operating systems  
 - 📱 Experience with <b>Flutter (Dart)</b> for UI and mobile projects  
-- 📫 How to reach me: <b>carlosvtsdev@gmail.com</b>  
+- 📫 How to reach me: <b>carlosvtsdev@gmail.com || carlosvts@proton.me </b>  
 - 🎯 <a href="https://carlosvts.github.io/">Check my website to see all my projects</a>
 
 ---
