@@ -70,6 +70,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
          alt="cplusplus" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         alt="python" width="40" height="40"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
          alt="linux" width="40" height="40"/>
@@ -82,10 +86,6 @@
 
 <b>Additional tools</b>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-         alt="python" width="40" height="40"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
          alt="html5" width="40" height="40"/>
