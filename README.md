@@ -17,9 +17,10 @@
 <h3 align="left">Interests & Goals</h3>
 
 <ul>
-  <li>Low-level systems programming in <b>C/C++</b></li>
+  <li>Low-level systems programming in C/C++<</li>
   <li>Operating systems, memory management and networking</li>
-  <li>Algorithmic thinking and <b>competitive programming</b></li>
+  <li>Competitive programming</li>
+  <li>Artificial Intelligence and Machine Learning</li>
 </ul>
 
 ---
