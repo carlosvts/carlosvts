@@ -1,5 +1,5 @@
 <h1 align="center">Hi,  I'm Carlos</h1>
-<h3 align="center">Building simple, efficient, low-level software in C/C++.</h3>
+<p align="center">Building simple, efficient, low-level software in C/C++.</p>
 
 <p align="center">
   Interested in systems programming, operating systems, memory management and performance-critical software.
