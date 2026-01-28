@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
+<h1 align="center">Hi,  I'm Carlos</h1>
 <h3 align="center">Building simple, efficient, low-level software in C/C++.</h3>
 
 <p align="center">
@@ -7,10 +7,10 @@
 
 ---
 
-- 🌱 Currently focused on <b>C/C++</b>, low-level systems programming and operating systems  
-- 📱 Experience with <b>Flutter (Dart)</b> for UI and mobile projects  
-- 📫 How to reach me: <b>carlosvtsdev@gmail.com || carlosvts@proton.me </b>  
-- 🎯 <a href="https://carlosvts.github.io/">Check my website to see all my projects</a>
+-   Currently focused on C/C++, low-level systems programming and operating systems  
+-  Experience with Flutter (Dart) for UI and mobile projects  
+-  How to reach me: <b>carlosvtsdev@gmail.com || carlosvts@proton.me </b>  
+-  <a href="https://carlosvts.github.io/">Check my website to see all my projects</a>
 
 ---
 
