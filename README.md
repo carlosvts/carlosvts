@@ -1,24 +1,24 @@
-<h1 align="center">Hi,  I'm Carlos</h1>
+<h1 align="center">Hi, I'm Carlos</h1>
 <p align="center">Building simple, efficient, low-level software in C/C++.</p>
 
 <p align="center">
-  Interested in systems programming, operating systems, memory management and performance-critical software.
+  Interested in systems programming, operating systems, memory management, and performance-critical software.
 </p>
 
 ---
 
--   Currently focused on C/C++, low-level systems programming and operating systems  
--  Experience with Flutter (Dart) for UI and mobile projects  
--  How to reach me: <b>carlosvtsdev@gmail.com || carlosvts@proton.me </b>  
--  <a href="https://carlosvts.github.io/">Check my website to see all my projects</a>
+- Currently focused on C/C++, low-level systems programming, and operating systems  
+- Experience with Flutter (Dart) for front-end development and Python for AI and data analysis  
+- How to reach me: <b>carlosvtsdev@gmail.com || carlosvts@proton.me</b>  
+- <a href="https://carlosvts.github.io/">Check my website to see all my projects</a>
 
 ---
 
 <h3 align="left">Interests & Goals</h3>
 
 <ul>
-  <li>Low-level systems programming in C/C++<</li>
-  <li>Operating systems, memory management and networking</li>
+  <li>Low-level systems programming in C/C++</li>
+  <li>Operating systems, memory management, and networking</li>
   <li>Competitive programming</li>
   <li>Artificial Intelligence and Machine Learning</li>
 </ul>
@@ -29,8 +29,11 @@
 
 <ul>
   <li>
+    <b>B.Sc. in Computer Science — Federal University of Lavras (UFLA)</b>
+  </li>
+  <li>
     <b>CS50x – Introduction to Computer Science (Harvard)</b><br/>
-    Focus on C, memory, algorithms, data structures and hands-on problem solving.
+    Focus on C, memory, algorithms, data structures, and hands-on problem solving.
   </li>
 </ul>
 
@@ -39,9 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=carlosvts&show_icons=true&theme=transparent&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvts&layout=compact&hide_border=true&theme=transparent&exclude_repo=carlosvts.github.io&cache_seconds=1800"/>
-
 </p>
-
 
 ---
 
