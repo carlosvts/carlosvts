@@ -1,22 +1,35 @@
 <h1 align="center">carlosvts</h1>
 <p align="center">
-Studying how abstractions emerge from memory layouts to learning algorithms.
+Studying how abstractions emerge from memory layouts to learning algorithms.<br>
+Building software to understand runtime behavior, performance and implementation trade-offs.<br>
+Interested in performance-critical software.
 </p>
 
 ---
 
-Computer science student interested in low-level software and the mechanics behind abstractions.
-Most projects explore internal behavior rather than framework usage.
+I build low-level software to understand runtime behavior and system design.  
+
 
 Focus areas:
 - C/C++ systems programming
 - memory management
 - operating systems concepts
-- performance-oriented software
-- algorithmic foundations of machine learning
+- performance-sensitive software
+- algorithmic aspects of learning systems
 
 Contact: carlosvtsdev@gmail.com | carlosvts@proton.me  
 Website: https://carlosvts.github.io/
+
+---
+
+## Core Projects
+
+Projects that best represent my interests in runtime behavior and low-level design.
+
+- lain — POSIX-oriented libc and Unix utilities reimplementation
+- raw image processor — manual bitmap parsing and convolution filters (sobel, gaussian blur)
+- memory allocator — implementation of malloc, calloc, realloc and free using doubly-linked free lists
+- chess engine — chess engine using bitboard representation
 
 ---
 
@@ -25,53 +38,54 @@ Website: https://carlosvts.github.io/
 ### Systems
 
 **[lain](https://github.com/carlosvts/lain)**  
-Unix-style personal laboratory with libc and coreutils reimplementations
+POSIX-oriented Unix laboratory exploring libc behavior, process utilities and program interfaces
 
 **[malloc implementation](https://github.com/carlosvts/malloc-implementation)**  
-Custom allocator exploring fragmentation and free list strategies
+Custom allocator studying fragmentation, coalescing and free list organization
 
 **[input multiplexer](https://github.com/carlosvts/input-multiplexer)**  
-Terminal input handling and event multiplexing
+Terminal input demultiplexing and event-driven handling over file descriptors
+
 
 ---
 
 ### Emulation
 
 **[CHIP-8 emulator](https://github.com/carlosvts/chip8)**  
-Instruction decoding, timers and display pipeline
+Instruction decoding, timers, memory mapping and display synchronization
+
 
 ---
 
 ### Graphics & Simulation
 
 **[sandbox game](https://github.com/carlosvts/sandbox-game)**  
-Interactive simulation experiments
+Cellular simulation with discrete update rules and state propagation
 
 **[raytracing](https://github.com/carlosvts/raytracing)**  
-Software rendering experiments
+CPU ray casting with intersection testing and lighting computation
 
 **[raw image processor](https://github.com/carlosvts/raw-image-processor)**  
-Manual bitmap reader with filters (sobel, gaussian blur)
+Manual bitmap parsing with convolution filters and pixel-level operations
 
 ---
 
 ### Networking
 
 **[http server (C++)](https://github.com/carlosvts/http-server-cpp)**  
-Basic HTTP parsing and request handling
+Socket handling, HTTP parsing and thread-per-connection request processing.
 
 ---
 
-### Algorithms
+### Algorithms and AI
 
-**[chess engine](https://github.com/carlosvts/chess-engine)** *(WIP)*  
-Move generation and search algorithms
+**[chess engine](https://github.com/carlosvts/chess-engine)**  (WIP)
 
 ---
 
 ## Artificial Intelligence
 
-From CS50AI and personal experiments:
+Study of AI from an algorithmic and implementation perspective rather than model training.
 
 Classical algorithms implemented manually:
 - search (DFS, BFS, A*)
@@ -79,7 +93,7 @@ Classical algorithms implemented manually:
 - minimax with alpha-beta pruning
 - probabilistic inference and pagerank
 
-Learning models implemented using Python and ML libraries:
+Learning models:
 - neural networks and gradient descent
 - attention-based NLP models
 
@@ -90,7 +104,8 @@ Learning models implemented using Python and ML libraries:
 **B.Sc. Computer Science — Federal University of Lavras (UFLA)**
 
 **CS50x — Introduction to Computer Science**  
-Manual memory management, algorithms and data structures in C
+C programming, pointers and manual memory management, data structures, recursion, hash tables, file I/O and algorithmic problem solving
+
 
 **CS50AI — Introduction to Artificial Intelligence with Python**  
 Classical AI algorithms and machine learning concepts
@@ -107,7 +122,7 @@ Classical AI algorithms and machine learning concepts
 ## Technologies
 
 Primary  
-C • C++ • Python • Linux • Git
+C/C++ • POSIX/Linux • Python • GDB • Git
 
 Occasional  
 HTML • CSS • Dart • Flutter
