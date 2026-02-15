@@ -7,9 +7,7 @@ Interested in performance-critical software.
 
 ---
 
-
-
-Focus areas:
+## Focus areas:
 - C/C++ systems programming
 - memory management
 - operating systems concepts
