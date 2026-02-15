@@ -5,6 +5,15 @@ I build low-level software to understand runtime behavior and system design. <br
 Interested in performance-critical software.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSIX-000000?style=for-the-badge"/>
+</p>
+
+
 ---
 
 ## Focus areas:
@@ -128,5 +137,10 @@ HTML • CSS • Dart • Flutter
 
 <p align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=carlosvts&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvts&layout=compact&hide_border=true&theme=transparent&exclude_repo=carlosvts.github.io&cache_seconds=1800"/>
+   <img height="180em"
+     src="https://readme-stats-fork.vercel.app/api/top-langs/?username=carlosvts&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&exclude_repo=carlosvts.github.io" />
+
 </p>
+
+
+  
