@@ -1,13 +1,12 @@
 <h1 align="center">carlosvts</h1>
 <p align="center">
 Studying how abstractions emerge from memory layouts to learning algorithms.<br>
-Building software to understand runtime behavior, performance and implementation trade-offs.<br>
+I build low-level software to understand runtime behavior and system design. <br>
 Interested in performance-critical software.
 </p>
 
 ---
 
-I build low-level software to understand runtime behavior and system design.  
 
 
 Focus areas:
