@@ -74,8 +74,9 @@ CPU ray casting with intersection testing and lighting computation
 **[raw image processor](https://github.com/carlosvts/raw-image-processor)**  
 Manual bitmap parsing with convolution filters and pixel-level operations
 
-**[fractals](https://github.com/carlosvts/fractals)**
+**[fractals](https://github.com/carlosvts/fractals)**  
 Laboratory on fractal trees and Mendelbrot set
+
 ---
 
 ### Networking
