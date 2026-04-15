@@ -35,8 +35,7 @@ Projects that best represent my interests in runtime behavior and low-level desi
 - lain — POSIX-oriented libc and Unix utilities reimplementation
 - raw image processor — manual bitmap parsing and convolution filters (sobel, gaussian blur)
 - memory allocator — implementation of malloc, calloc, realloc and free using doubly-linked free lists
-- chess engine — chess engine using bitboard representation
-
+  
 ---
 
 ## Selected Work
@@ -83,12 +82,6 @@ Laboratory on fractal trees and Mendelbrot set
 
 **[http server (C++)](https://github.com/carlosvts/http-server-cpp)**  
 Socket handling, HTTP parsing and thread-per-connection request processing.
-
----
-
-### Algorithms and AI
-
-**[chess engine](https://github.com/carlosvts/chess-engine)**  (WIP)
 
 ---
 
