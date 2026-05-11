@@ -77,7 +77,15 @@ I study AI from an algorithmic and implementation angle — interested in how th
 
 ## Human-Robot Interaction
 
-Beginning to explore HRI — particularly the intersection between low-level systems and physical, interactive behavior. Early stage, but a direction I'm following with intention.
+Beginning to explore HRI — particularly the intersection between systems and physical, interactive behavior. Early stage, but a direction I'm following with intention.
+
+---
+
+## Infrastructure & QA
+
+Infrastructure and QA work around reproducible systems, deployment tooling and validation workflows.
+
+**Stack:** Docker, Docker Compose, Ansible, SonarQube, CI/CD pipelines, Linux environments, Insomnia, GitHub Issues
 
 ---
 
