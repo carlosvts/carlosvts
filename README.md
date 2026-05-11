@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/POSIX-000000?style=for-the-badge"/>
@@ -15,7 +16,7 @@
 
 <p align="center">
   carlosvtsdev@gmail.com · carlosvts@proton.me · <a href="https://carlosvts.github.io/">carlosvts.github.io</a><br/>
-  C/C++ · POSIX/Linux · Rust · Python · GDB · Git &nbsp;|&nbsp; <em>HTML · CSS · Dart · Flutter</em>
+  C/C++ · POSIX/Linux · Rust · Python · GDB · Git &nbsp;|&nbsp; <em>HRI · Infrastructure · QA </em>
 </p>
 
 ---
