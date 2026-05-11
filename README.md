@@ -15,7 +15,7 @@
 
 <p align="center">
   carlosvtsdev@gmail.com · carlosvts@proton.me · <a href="https://carlosvts.github.io/">carlosvts.github.io</a><br/>
-  C/C++ · POSIX/Linux · Python · GDB · Git &nbsp;|&nbsp; <em>HTML · CSS · Dart · Flutter</em>
+  C/C++ · POSIX/Linux · Rust · Python · GDB · Git &nbsp;|&nbsp; <em>HTML · CSS · Dart · Flutter</em>
 </p>
 
 ---
