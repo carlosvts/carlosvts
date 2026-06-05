@@ -1,8 +1,15 @@
 <h1 align="center">carlosvts</h1>
 
 <p align="center">
-  CS student at UFLA. I like building things close to the metal —<br/>
-  allocators, emulators, simulations, the kind of code that makes you think about what's actually happening underneath.
+  CS student at UFLA focused on Systems Programming,<br/>
+  Computer Graphics and Human-Robot Interaction.
+</p>
+
+<p align="center">
+  I build software close to the hardware — operating system interfaces,
+  memory allocators, emulators, graphics pipelines and simulations —
+  while exploring how intelligent systems perceive, reason and interact
+  with people and their environment.
 </p>
 
 <p align="center">
@@ -16,7 +23,7 @@
 
 <p align="center">
   carlosvtsdev@gmail.com · carlosvts@proton.me · <a href="https://carlosvts.github.io/">carlosvts.github.io</a><br/>
-  C/C++ · POSIX/Linux · Rust · Python · GDB · Git &nbsp;|&nbsp; <em>HRI · Infrastructure · QA </em>
+  C/C++ · POSIX/Linux · Rust · Python · GDB · Git &nbsp;|&nbsp; <em>Systems · Graphics · HRI</em>
 </p>
 
 ---
@@ -26,66 +33,75 @@
 ### Systems
 
 **[lain](https://github.com/carlosvts/lain)**  
-POSIX-oriented Unix laboratory — libc reimplementation, process utilities, program interfaces
+Personal Unix systems laboratory — reimplementations, abstractions and experiments around POSIX interfaces, process management and systems programming foundations.
 
 **[malloc implementation](https://github.com/carlosvts/malloc-implementation)**  
-Custom allocator built from scratch: doubly-linked free lists, coalescing, fragmentation study
+Custom memory allocator built from scratch with doubly-linked free lists, coalescing strategies and fragmentation analysis.
 
 **[input multiplexer](https://github.com/carlosvts/input-multiplexer)**  
-Terminal input demultiplexing and event-driven handling over file descriptors
+Event-driven terminal input handling and file descriptor multiplexing.
 
 ---
 
 ### Graphics & Simulation
 
 **[raytracing](https://github.com/carlosvts/raytracing)**  
-CPU ray casting with intersection testing and lighting computation
+CPU ray tracing experiments involving geometric intersections, lighting models and rendering fundamentals.
 
 **[raw image processor](https://github.com/carlosvts/raw-image-processor)**  
-Manual bitmap parsing — Sobel edge detection, Gaussian blur, pixel-level convolution
+Manual bitmap parsing and image processing techniques including Sobel edge detection, Gaussian blur and convolution filters.
 
 **[sandbox game](https://github.com/carlosvts/sandbox-game)**  
-Cellular simulation with discrete update rules and state propagation
+Cellular simulation environment based on discrete update rules and emergent behavior.
 
 **[fractals](https://github.com/carlosvts/fractals)**  
-Fractal trees and Mandelbrot set exploration
+Fractal trees, Mandelbrot set exploration and procedural mathematical visualization.
 
 ---
 
 ### Emulation
 
 **[CHIP-8 emulator](https://github.com/carlosvts/chip8)**  
-Instruction decoding, timers, memory mapping, display synchronization
+Virtual machine implementation covering instruction decoding, memory mapping, timers and display synchronization.
 
 ---
 
 ### Networking
 
 **[http server (C++)](https://github.com/carlosvts/http-server-cpp)**  
-Socket handling, HTTP parsing and thread-per-connection request processing
-
----
-
-## Artificial Intelligence
-
-I study AI from an algorithmic and implementation angle — interested in how things work, not just how to call them.
-
-**Classical algorithms:** DFS, BFS, A\*, constraint satisfaction, minimax with alpha-beta pruning, probabilistic inference, PageRank  
-**Learning models:** neural networks, gradient descent, attention-based NLP
+Multithreaded HTTP server featuring socket programming, request parsing and concurrent connection handling.
 
 ---
 
 ## Human-Robot Interaction
 
-Beginning to explore HRI — particularly the intersection between systems and physical, interactive behavior. Early stage, but a direction I'm following with intention.
+I am interested in how intelligent systems perceive, reason and interact with people and their environment.
+
+Current areas of exploration include:
+
+- Artificial Intelligence
+- Computational perception
+- Autonomous behavior
+- Interactive systems
+- Human-centered robotics
 
 ---
 
-## Infrastructure & QA
+## Infrastructure
 
-Infrastructure and QA work around reproducible systems, deployment tooling and validation workflows.
+Infrastructure and QA work focused on reproducibility, deployment and software validation.
 
 **Stack:** Docker, Docker Compose, Ansible, SonarQube, CI/CD pipelines, Linux environments, Insomnia, GitHub Issues
+
+---
+
+## Currently Exploring
+
+- Unix internals and systems design
+- Computer graphics fundamentals
+- Rust for systems programming
+- Human-Robot Interaction
+- AI from an implementation perspective
 
 ---
 
@@ -93,11 +109,24 @@ Infrastructure and QA work around reproducible systems, deployment tooling and v
 
 **B.Sc. Computer Science — UFLA (Federal University of Lavras)**
 
-**CS50x** — C, pointers, memory management, data structures, algorithms  
-**CS50AI** — Classical AI and machine learning fundamentals
-
 ---
 <p align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=carlosvts&show_icons=true&theme=transparent&hide_border=true" height="160"/>
   <img height="180em" src="https://readme-stats-fork.vercel.app/api/top-langs/?username=carlosvts&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&exclude_repo=carlosvts.github.io,InfraCompjr,Portfolio-de-Qualidade&hide=javascript"/>
 </p>
+
+### Additional Coursework
+
+**CS50x — Introduction to Computer Science**
+- C programming
+- Memory management
+- Data structures
+- Algorithms
+- Systems fundamentals
+
+**CS50AI — Introduction to Artificial Intelligence**
+- Search algorithms
+- Knowledge representation
+- Probabilistic inference
+- Optimization
+- Machine learning fundamentals
