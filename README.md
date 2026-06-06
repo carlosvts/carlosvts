@@ -51,7 +51,7 @@ CPU ray tracing experiments involving geometric intersections, lighting models a
 **[raw image processor](https://github.com/carlosvts/raw-image-processor)**  
 Manual bitmap parsing and image processing techniques including Sobel edge detection, Gaussian blur and convolution filters.
 
-**[sandbox game](https://github.com/carlosvts/sandbox-game)**  
+**[automa engine](https://github.com/carlosvts/automa-engine)**  
 Cellular simulation environment based on discrete update rules and emergent behavior.
 
 **[fractals](https://github.com/carlosvts/fractals)**  
