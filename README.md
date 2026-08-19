@@ -18,7 +18,7 @@
 
 <p align="center">
   carlosvtsdev@gmail.com · carlosvts@proton.me · <a href="https://carlosvts.github.io/">carlosvts.github.io</a><br/>
-  C/C++ (modern C++) · Python · OpenCV/MediaPipe · Ollama (local LLMs/VLMs) · POSIX/Linux · Git
+  C/C++ · Python · OpenCV/MediaPipe · Ollama (local LLMs/VLMs) · POSIX/Linux · Git
 </p>
 
 ---
