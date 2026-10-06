@@ -1,96 +1,55 @@
 <h1 align="center">carlosvts</h1>
 
 <p align="center">
-  Systems programmer building the perception and reasoning layers for embodied intelligence.<br/>
-  CS student at UFLA — from memory allocators and emulators to perception and interaction pipelines for robots.
+  Undergraduate Research Fellow in Human-Robot Interaction.<br/>
+  Social robots in healthcare, built on a systems programming foundation.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POSIX-000000?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  carlosvtsdev@gmail.com · carlosvts@proton.me · <a href="https://carlosvts.github.io/">carlosvts.github.io</a><br/>
-  C/C++ · Python · OpenCV/MediaPipe · Ollama (local LLMs/VLMs) · POSIX/Linux · Git
+  CS @ UFLA · carlosvtsdev@gmail.com · <a href="https://carlosvts.github.io/">carlosvts.github.io</a>
 </p>
 
 ---
 
-## Human-Robot Interaction & Embodied AI — current focus
+## Research
+
+My research is on **social robots in healthcare**: how robots can perceive human engagement and respond appropriately in care-related contexts, running on local/edge hardware where privacy and latency matter.
+
+- Attention and engagement estimation
+- Perception-to-behavior pipelines
+- Local inference for vision-language models
+- Resource-aware, real-time AI
+- Human-centered and ethical design constraints for social robots
+
+**Affiliations:** Undergraduate Research Fellow, UFLA · NEURON robotics study group
+
+---
+
+## Selected work
 
 **[attention-aware-toy](https://github.com/carlosvts/attention-aware-toy)**
-An experimental attention-gated perception pipeline for HRI. OpenCV/MediaPipe estimate sustained human attention from head pose and gaze; when attention holds, locally-run models (via Ollama) generate a contextual response. Includes custom telemetry for latency/CPU/RAM/VRAM and an explicit responsible-use policy. A testbed for perception-to-behavior pipelines aimed at future deployment on social robots.
+Attention-gated perception pipeline for HRI. OpenCV/MediaPipe estimate sustained attention from head pose and gaze; when it holds, local models (Ollama) generate a contextual response. Includes latency/CPU/RAM/VRAM telemetry and an explicit responsible-use policy.
 
-**Areas of active exploration:** attention and engagement estimation, perception-to-behavior pipelines, local/edge inference for vision-language models, resource-aware real-time AI, human-centered design constraints for social robots.
+**[go2-api](https://github.com/carlosvts/go2-api)**
+HTTP API that owns and multiplexes the single WebRTC connection to a Unitree Go2 quadruped, so other services (voice, chat) can control the robot through simple REST calls: posture, gestures, locomotion and status. Built for the NEURON group at UFLA; real-time WebSocket streams are planned.
 
----
-
-## Systems Foundations
-
-**[lain](https://github.com/carlosvts/lain)**
-A personal Unix laboratory — reimplementations of coreutils and libc functionality, process management, and POSIX interface experiments.
-
-**[malloc implementation](https://github.com/carlosvts/malloc-implementation)**
-A custom heap manager built from scratch in C++: doubly-linked free lists, coalescing, fragmentation analysis, and direct interaction with the Linux kernel via `sbrk`.
-
-**[input multiplexer](https://github.com/carlosvts/input-multiplexer)**
-Event-driven terminal input handling and file-descriptor multiplexing.
-
-**[lain-audio](https://github.com/carlosvts/lain-audio)**
-A small C audio library for visualizing `.wav` files as amplitude bars, built within the `lain` ecosystem.
+**[sar-review-pipeline](https://github.com/carlosvts/sar-review-pipeline)**
+RAG pipeline to automate snowballing in systematic literature reviews.
 
 ---
 
-## Graphics, Vision & Simulation
+## Technical foundation
 
-**[raw image processor](https://github.com/carlosvts/raw-image-processor)**
-Zero-dependency manual BMP parsing and convolution-based filtering — Sobel edge detection, Gaussian blur, pixel-level convolution.
+Systems programming is where I learned to reason about memory, latency and hardware limits, which is what makes local, real-time perception on robots tractable.
 
-**[raytracing](https://github.com/carlosvts/raytracing)**
-CPU ray tracing covering geometric intersection testing and lighting models.
-
-**[sandbox game](https://github.com/carlosvts/sandbox-game)**
-A real-time particle physics sandbox with custom cellular automata — fluid, thermal, and biological interactions implemented in C++ with Raylib.
-
-**[fractals](https://github.com/carlosvts/fractals)**
-Fractal trees and Mandelbrot set exploration, procedural mathematical visualization.
+- **[malloc](https://github.com/carlosvts/malloc-implementation)**: heap manager in C++ (free lists, coalescing, `sbrk`)
+- **[lain](https://github.com/carlosvts/lain)**: Unix lab; coreutils/libc reimplementations, POSIX experiments
+- **[chip8](https://github.com/carlosvts/chip8)**: CHIP-8 emulator in C with SDL2
+- **[http-server-cpp](https://github.com/carlosvts/http-server-cpp)**: multithreaded HTTP server
+- **[raytracing](https://github.com/carlosvts/raytracing)** · **[raw-image-processor](https://github.com/carlosvts/raw-image-processor)** · **[sandbox-game](https://github.com/carlosvts/sandbox-game)** · **[fractals](https://github.com/carlosvts/fractals)**
 
 ---
 
-## Emulation
-
-**[CHIP-8 emulator](https://github.com/carlosvts/chip8)**
-A CHIP-8 virtual machine in C using SDL2 — fetch-decode-execute cycle, big-endian opcode handling, timer synchronization, and display rendering.
-
----
-
-## Networking
-
-**[http server (C++)](https://github.com/carlosvts/http-server-cpp)**
-A multithreaded HTTP server — socket programming, request parsing, and thread-per-connection handling, following Beej's Guide to Network Programming.
-
----
-
-## Education
-
-**B.Sc. Computer Science — UFLA (Federal University of Lavras)**
-
-**CS50x — Introduction to Computer Science**
-C programming · memory management · data structures · algorithms · systems fundamentals
-
-**CS50AI — Introduction to Artificial Intelligence**
-Search algorithms · knowledge representation · probabilistic inference · optimization · machine learning fundamentals
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api?username=carlosvts&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img height="180em" src="https://readme-stats-fork.vercel.app/api/top-langs/?username=carlosvts&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&exclude_repo=carlosvts.github.io,InfraCompjr,Portfolio-de-Qualidade&hide=javascript"/>
-</p>
+**Languages:** Python · C · C++
+**Exploring:** Rust
+**Tools:** OpenCV · MediaPipe · Ollama · FastAPI · Docker · Networking · Linux/POSIX · Git
